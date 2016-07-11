@@ -65,10 +65,12 @@ p {
 	font-size: 30px;
 }
 
-.contactinfo {
+.contactinfo li {
 	display: block;
 	max-width: 30%;
-	
-	margin-left: 150px;
+	margin-left: 50px;
+}
 
+h3 {
+	margin-left: 200px;
 }
