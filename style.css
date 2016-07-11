@@ -1,3 +1,7 @@
+body {
+	margin: 150 auto;
+}
+
 a {
 	text-decoration: none;
 	color: black;
@@ -20,4 +24,51 @@ li {
 
 h1 {
 	text-align: center;
+	clear: left;
+}
+
+.hometoppic {
+	max-width: 100%;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.donatenow {
+	text-align: center;
+	font-size: 50px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+header {
+	box-sizing: border-box;
+}
+
+p {
+	text-align: justify;
+	max-width: 100%;
+	margin: 30px; 
+}
+
+.getinvolvedtoppic {
+	float: left;
+	padding-right: 25px;
+	margin-left: 50px;
+	margin-top: 25px;
+}
+
+.penniescount {
+	font-family: arial;
+	padding: 0px;
+	margin-left: 30px;
+	font-size: 30px;
+}
+
+.contactinfo {
+	display: block;
+	max-width: 30%;
+	
+	margin-left: 150px;
+
 }
