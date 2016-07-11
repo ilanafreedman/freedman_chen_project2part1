@@ -28,16 +28,17 @@ h1 {
 }
 
 .aboutus{
-	width:300px;
+	width:30%;
 	display:inline-block;
 	float:left;
 	font-size:20px;
 	margin-left: 20px;
 }
 .about{
-	padding-left:450px;
+	padding-top: 100px;
+	padding-left:350px;
 	float:left;
-	width:200px;
+	width:30%;
 	display:inline-block;
 }
 
@@ -51,8 +52,6 @@ h1 {
 }
 
 
-
-
 .hometoppic {
 	max-width: 100%;
 	text-align: center;
@@ -60,8 +59,13 @@ h1 {
 }
 
 .donatenow {
-	text-align: center;
-	font-size: 50px;
+	/*text-align: center;
+	font-size: 50px;*/
+	font-size: 30px;
+	background-color: #8B0000;
+    clear:left;
+    width:50%;
+    margin-left: 20px;
 }
 
 a:hover {
@@ -96,10 +100,9 @@ p {
 .contactinfo li {
 	display: block;
 	max-width: 30%;
-	margin-left: 70px;
-	margin: 10px;
-
+	margin-left: 150px;
 }
+
 
 
 h3 {
