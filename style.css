@@ -80,8 +80,9 @@ p {
 .getinvolvedtoppic {
 	float: left;
 	padding-right: 25px;
-	margin-left: 50px;
-	margin-top: 25px;
+	margin-left: 30px;
+	margin-top: 10px;
+	clear: left;
 }
 
 .penniescount {
@@ -89,19 +90,31 @@ p {
 	padding: 0px;
 	margin-left: 30px;
 	font-size: 30px;
+	margin-top: 70px;
 }
 
 .contactinfo li {
 	display: block;
 	max-width: 30%;
-	margin-left: 50px;
+	margin-left: 70px;
 	margin: 10px;
 
 }
 
 
 h3 {
-	margin-left: 150px;
+	margin-left: 30px;
 	margin-top: 20px;
 }
 
+.getinvolvedhead {
+	width:300px;
+	display: block;
+	float:left;
+	font-size:20px;
+	margin-left: 0px;
+}
+
+h4 {
+	margin-left: 160px;
+}
