@@ -1,0 +1,23 @@
+a {
+	text-decoration: none;
+	color: black;
+	padding: 20px;
+	font-family: arial;
+	padding-left: 10px;
+
+}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+}
+
+h1 {
+	text-align: center;
+}
