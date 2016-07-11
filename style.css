@@ -28,16 +28,17 @@ h1 {
 }
 
 .aboutus{
-	width:300px;
+	width:30%;
 	display:inline-block;
 	float:left;
 	font-size:20px;
 	margin-left: 20px;
 }
 .about{
-	padding-left:450px;
+	padding-top: 100px;
+	padding-left:350px;
 	float:left;
-	width:200px;
+	width:30%;
 	display:inline-block;
 }
 
